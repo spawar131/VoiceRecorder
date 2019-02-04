@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JavaVoiceRecorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="toggleButton">On</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+</resources>
